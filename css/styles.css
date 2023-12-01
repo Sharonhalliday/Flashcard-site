@@ -10,6 +10,7 @@
 }
 .adjust{
     padding-top: 20px;
+    padding-left: 20px;
 }
 .enhance{
     font-size: large;
@@ -28,3 +29,17 @@
 #operator-card{
     height: 80px;
 }
+#var-showing{
+    display: none;
+}
+.clickable{
+    text-decoration: underline;
+    color: grey;
+}
+/* #vnc-showing{
+    display: none;
+}
+.clicky{
+    text-decoration: underline;
+    color: grey;
+} */
