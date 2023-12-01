@@ -21,4 +21,11 @@ $("#vnc-showing").toggle();
 $("#vnc-hidden").toggle();
 });
 
+
+$(".clickkyy").click(function () {
+$("#func-showing").toggle();
+$("#func-hidden").toggle();
+});
+    
+
 });

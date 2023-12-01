@@ -43,3 +43,10 @@
     text-decoration: underline;
     color: grey;
 }
+#func-showing{
+    display: none;
+}
+.clickkyy{
+    text-decoration: underline;
+    color: grey;
+}
