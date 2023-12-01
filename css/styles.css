@@ -50,3 +50,10 @@
     text-decoration: underline;
     color: grey;
 }
+#meth-showing{
+    display: none;
+}
+.clicker{
+    text-decoration: underline;
+    color: grey;
+}

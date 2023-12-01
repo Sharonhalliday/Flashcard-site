@@ -28,4 +28,8 @@ $("#func-hidden").toggle();
 });
     
 
+$(".clicker").click(function () {
+$("#meth-showing").toggle();
+$("#meth-hidden").toggle();
+});
 });
