@@ -16,9 +16,9 @@ $("#var-showing").toggle();
 $("#var-hidden").toggle();
 });
 
-// $(".clicky").click(function () {
-// $("#vnc-showing").toggle();
-// $("#vnc-hidden").toggle();
-// });
+$(".clicky").click(function () {
+$("#vnc-showing").toggle();
+$("#vnc-hidden").toggle();
+});
 
 });
