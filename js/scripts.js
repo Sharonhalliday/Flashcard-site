@@ -38,4 +38,9 @@ $(".clickclock").click(function () {
 $("#para-showing").toggle();
 $("#para-hidden").toggle();
 });
+
+$(".clickcluck").click(function () {
+$("#return-showing").toggle();
+$("#return-hidden").toggle();
+});
 });

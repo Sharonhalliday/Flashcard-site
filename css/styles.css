@@ -74,3 +74,10 @@
 .card{
     background-color: rgb(237, 237, 237);
 }
+#return-showing{
+    display: none;
+}
+.clickcluck{
+    text-decoration: underline;
+    color: grey;
+}
