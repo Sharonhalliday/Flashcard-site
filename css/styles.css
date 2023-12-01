@@ -81,3 +81,17 @@
     text-decoration: underline;
     color: grey;
 }
+#chain-showing{
+    display: none;
+}
+.clickclack{
+    text-decoration: underline;
+    color: grey;
+}
+#string-showing{
+    display: none;
+}
+.clickity{
+    text-decoration: underline;
+    color: grey;
+}

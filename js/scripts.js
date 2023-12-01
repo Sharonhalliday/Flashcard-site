@@ -39,8 +39,21 @@ $("#para-showing").toggle();
 $("#para-hidden").toggle();
 });
 
+
 $(".clickcluck").click(function () {
 $("#return-showing").toggle();
 $("#return-hidden").toggle();
+});
+
+
+$(".clickclack").click(function () {
+$("#chain-showing").toggle();
+$("#chain-hidden").toggle();
+});
+
+
+$(".clickity").click(function () {
+$("#string-showing").toggle();
+$("#string-hidden").toggle();
 });
 });
