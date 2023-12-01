@@ -56,4 +56,22 @@ $(".clickity").click(function () {
 $("#string-showing").toggle();
 $("#string-hidden").toggle();
 });
+
+
+$(".clickss").click(function () {
+$("#boo-showing").toggle();
+$("#boo-hidden").toggle();
+});
+
+
+$(".clicktock").click(function () {
+$("#und-showing").toggle();
+$("#und-hidden").toggle();
+});
+
+
+$(".clickpin").click(function () {
+$("#nan-showing").toggle();
+$("#nan-hidden").toggle();
+});
 });
