@@ -34,4 +34,8 @@ $("#arg-hidden").toggle();
 });
 
 
+$(".clickclock").click(function () {
+$("#para-showing").toggle();
+$("#para-hidden").toggle();
+});
 });
