@@ -74,4 +74,34 @@ $(".clickpin").click(function () {
 $("#nan-showing").toggle();
 $("#nan-hidden").toggle();
 });
+
+
+$(".tap").click(function () {
+$("#null-showing").toggle();
+$("#null-hidden").toggle();
+});
+
+
+$(".taptap").click(function () {
+$("#alert-showing").toggle();
+$("#alert-hidden").toggle();
+});
+
+
+$(".clicktap").click(function () {
+$("#com-showing").toggle();
+$("#com-hidden").toggle();
+});
+
+
+$(".tiptap").click(function () {
+$("#j-showing").toggle();
+$("#j-hidden").toggle();
+});
+
+
+$(".clickest").click(function () {
+$("#att-showing").toggle();
+$("#att-hidden").toggle();
+});
 });

@@ -116,3 +116,38 @@
     text-decoration: underline;
     color: grey;
 }
+#null-showing{
+    display: none;
+}
+.tap{
+    text-decoration: underline;
+    color: grey;
+}
+#alert-showing{
+    display: none;
+}
+.taptap{
+    text-decoration: underline;
+    color: grey;
+}
+#com-showing{
+    display: none;
+}
+.clicktap{
+    text-decoration: underline;
+    color: grey;
+}
+#j-showing{
+    display: none;
+}
+.tiptap{
+    text-decoration: underline;
+    color: grey;
+}
+#att-showing{
+    display: none;
+}
+.clickest{
+    text-decoration: underline;
+    color: grey;
+}
