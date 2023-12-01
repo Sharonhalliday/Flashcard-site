@@ -57,3 +57,10 @@
     text-decoration: underline;
     color: grey;
 }
+#arg-showing{
+    display: none;
+}
+.clickies{
+    text-decoration: underline;
+    color: grey;
+}
