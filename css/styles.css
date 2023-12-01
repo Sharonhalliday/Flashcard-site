@@ -1,0 +1,30 @@
+#js-showing{
+    display: none;
+}
+.click{
+    text-decoration: underline;
+    color: grey;
+}
+.card{
+    height: 70px;
+}
+.adjust{
+    padding-top: 20px;
+}
+.enhance{
+    font-size: large;
+    font-weight: bold;
+}
+.modify{
+    font-weight:600;
+}
+/* #operator-showing{
+    display: none;
+}
+.clickclick{
+    text-decoration: underline;
+    color: grey;
+}
+#operator-card{
+    height: 80px;
+} */
